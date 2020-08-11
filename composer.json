@@ -1,5 +1,5 @@
 {
-    "name": "kiwfy/request-service-php",
+    "name": "scaffoldeducation/request-service-php",
     "description": "PHP library using Guzzle base to send request to any services. Good to use in microservice architecture",
     "version": "1.0.0",
     "type": "library",
